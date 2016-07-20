@@ -36,7 +36,7 @@ private final static int fensterHoehe = 25;  //standard anzahl von Zeichen in ei
           "\n\nVariante 4"+
             "\n  2 Spieler"+
             "\n  Es wird eine Anzahl von Reihen festgelegt, in denen unterschiedlich "+ 
-            "\n  viele Steine sein können. Jeder Spiler nimmt solange beliebig viele "+
+            "\n  viele Steine sein können. Jeder Spieler nimmt solange beliebig viele "+
             "\n  Steine aus einer Reihe, bis keine mehr übrig sind."+
             "\n  Wer den letzten Stein nimmt hat gewonnen."+
           "\n\nGeben sie die Variante an, die sie Spielen möchten (0 beendet das Spiel): ");
